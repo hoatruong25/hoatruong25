@@ -8,5 +8,5 @@ I'm a Back-End and Database Developer with a solid familiarity with .NET. I also
 - 📫 How to reach me **[linkedIn](https://www.linkedin.com/in/thuan-hoa-truong-330038251/)**
 
 <h3 align="left">💫 Favorite languages and tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoatruong25&show_icons=true&locale=en&layout=compact" alt="hoatruong25" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoatruong25&layout=compact&hide_border=true&langs_count=6&theme=light" /></p>
 
